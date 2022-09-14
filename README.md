@@ -36,7 +36,7 @@
 ---
 ##  CHC Pro версия
 ---
-![CHC Pro img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/CHC_Pro/img_2022_09_05_23_51_02_png_png.jpeg)
+![CHC Pro img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/CH%D0%A1_Pro/img_2022_09_06_00_27_13_png.jpeg)
 
 md
  https://gist.github.com/Jekins/2bf2d0638163f1294637
