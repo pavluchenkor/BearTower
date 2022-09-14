@@ -30,7 +30,7 @@
 </br>
 Все изображения с модификациями в папке IMG
 
-##  CHC версия
+##  CHC верси 
 ###
 ![CHC img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/CHC/img_2022_09_05_23_51_02_png_png.jpeg)
 ---
