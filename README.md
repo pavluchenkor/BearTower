@@ -26,13 +26,15 @@
 ### К ней крепится коробка
 ![Base img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/img_2022-09-03_19_47_07_png.jpeg)
 </br>
-Все изображения в папке 
+Все изображения с модификациями в папке IMG
 
 ##  CHC версия
 ###
+![CHC img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/img_2022-09-05_23_47_51_png.jpeg)
 ---
 ##  CHC Pro версия
 ---
+![CHC Pro img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/img_2022-09-05_23_47_51_png.jpeg)
 
 md
  https://gist.github.com/Jekins/2bf2d0638163f1294637
