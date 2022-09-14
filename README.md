@@ -1,9 +1,11 @@
+[Telegram](https://t.me/BearTowerRu)
 ###### ‼️ Если вы видите github впервые, нажите зеленую кнопку "Code" и скачайте все файлы zip архивом 
 
 ![BearTower img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/BearTower.jpeg)
 
 # Башня Мишки
 для принтера Flying Bear Reborn
+
  </br>
  </br>
  В зависимости от оборудования в наличии, сформирована структура папок.
