@@ -1,22 +1,25 @@
 # Башня Мишки
+ 
+ В зависимотсти от оборудования в наличии сформирована структура папок
+ 
  /
-> CHC<br/>
+> CHC <br/>
 >> Sailfin<br/>
 >>> BL Touch<br/>
->>> WO Touch<br/>
+>>> WO Touch (без BL Touch)<br/>
 
 >> Orbitr<br/>
 >>> BL Touch<br/>
->>> WO Touch<br/>
+>>> WO Touch (без BL Touch)<br/>
 
 > CHC Pro<br/>
 >> Sailfin<br/>
 >>> BL Touch<br/>
->>> WO Touch<br/>
+>>> WO Touch (без BL Touch)<br/>
 
 >> Orbitr<br/>
 >>> BL Touch<br/>
->>> WO Touch<br/>
+>>> WO Touch (без BL Touch)<br/>
 
 ##  CHC версия
 ###
