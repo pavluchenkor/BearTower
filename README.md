@@ -1,5 +1,6 @@
-###### ‼️ Если вы видите github впервые, нажите кнопку "Code" и скачайте все файлы zip архивом 
+###### ‼️ Если вы видите github впервые, нажите зеленую кнопку "Code" и скачайте все файлы zip архивом 
 
+![BearTower img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/BearTower.jpeg)
 
 # Башня Мишки
  
@@ -19,9 +20,10 @@
  - возможность регулировки обдува (+- 2.5мм)
  Сама платформа, по мере сил, должна обрастать дополнительными модулями.
 
-База под различные ремни
+База под различные ремни устанавливается в первую очередь
+![Base img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/img_2022_09_14_14_07_18.jpeg)
 
-![BearTower img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/BearTower.jpeg)
+
 ##  CHC версия
 ###
 ---
