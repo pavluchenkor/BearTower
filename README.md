@@ -1,14 +1,11 @@
 # Башня Мишки
  /
-> CHC
->> Sailfin
-
->> Orbitr
-
-> CHC Pro
->> Sailfin
-
->> Orbitr
+> CHC<br/>
+>> Sailfin<br/>
+>> Orbitr<br/>
+> CHC Pro<br/>
+>> Sailfin<br/>
+>> Orbitr<br/>
 
 ##  CHC версия
 ###
