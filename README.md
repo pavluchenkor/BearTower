@@ -3,7 +3,7 @@
  В зависимости от оборудования в наличии, сформирована структура папок.
  В каждой папке находятся те модели которые нужно печатать для конкртетной конфигурации оборудования, некторые файлы являются общими и они находятся на верхних уровнях.
  
-![BearTower img](https://github.com/pavluchenkor/BearTower/tree/master/IMG/BearTower.jpg|alt=octocat)
+![BearTower img](https://github.com/pavluchenkor/BearTower/tree/master/IMG/BearTower.jpg)
 
 
 ##  CHC версия
