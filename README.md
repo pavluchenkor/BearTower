@@ -2,10 +2,19 @@
  /
 > CHC<br/>
 >> Sailfin<br/>
->> Orbitr<br/><br/>
+>>> BL Touch
+>>> WO Touch
+>> Orbitr<br/>
+>>> BL Touch
+>>> WO Touch
+
 > CHC Pro<br/>
 >> Sailfin<br/>
+>>> BL Touch
+>>> WO Touch
 >> Orbitr<br/>
+>>> BL Touch
+>>> WO Touch
 
 ##  CHC версия
 ###
