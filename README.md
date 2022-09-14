@@ -1,4 +1,4 @@
-[Telegram](https://t.me/BearTowerRu)
+###### [Дополнительные фото/видо](https://t.me/BearTowerRu)
 ###### ‼️ Если вы видите github впервые, нажите зеленую кнопку "Code" и скачайте все файлы zip архивом 
 
 ![BearTower img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/BearTower.jpeg)
