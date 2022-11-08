@@ -30,6 +30,7 @@
 
   - Alexey Khripyakov fan duct mod. Мод совмещенных дуек с "полным" обдувом.
   - версия под радиатор NF Zone 
+  - папка Fusion archive с исходниками проекта
 
 ### База под различные ремни устанавливается в первую очередь
 ![Base img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/img_2022_09_14_14_07_18.jpeg)
